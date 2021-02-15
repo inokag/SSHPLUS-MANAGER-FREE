@@ -1,34 +1,35 @@
-﻿# SSHPLUS MANAGER v32
+﻿# GOST  SSH MANAGER v32
 # UPDATE 05/02/2021
-# PROYECTO FINALIZADO
+# PROYECTO FINISH!!
 
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
 
 
 ```
-SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herramientas adecuadas para 
-                 ofrecer extrema facilidad de manejo en servidores Linux con un enfoque en el uso de 
-                 VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
-                 y los usuarios ...
+SCRIPT SSHPLUS MANAGER is a script with a set of features and tools suitable for
+                 offer extreme ease of handling on Linux servers with a focus on the use of
+                 VPN, has a pleasant interface providing detailed information about the machine
+                 and the users ...
 ```
 
 -------------------------------------------------------------------------------
 
 **Manager Script**
 
-## :heavy_exclamation_mark: Requerimientos
+## :heavy_exclamation_mark: Requirements
 
-* Un sistema operativo basado en Linux (Ubuntu o Debian) 
+* An operating system based on Linux (Ubuntu or Debian)
 * Ubuntu 14.04 Server x86_64 / Ubuntu 16.04 Server x86_64  / Ubuntu 18.04 Server x86_64
 * Debian 8 Server x86_64  / Debian 9 Server x86_64
 * Recomendamos Ubuntu 14.04 Server x86_64 / 16.04 Server x86_64 
-* Se recomienda usar una distro nueva o formatiada
+* It is recommended to use a new or formatted distro
+
 
 ## Installation
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
 
-* SI NECESITAN REINSTALAR EL SCRIPTS PUEDEN EJECUTAR EL COMANDO: ( sshplus )
+* : ( sshplus )
 
 -------------------------------------------------------------------------------
 
@@ -119,4 +120,4 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 
 ```
 
-**By: [  ⃘⃤꙰✰ ]**
+**By: [HOST  KOLLAHH]**
